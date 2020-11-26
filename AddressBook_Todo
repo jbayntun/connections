@@ -1,0 +1,46 @@
+finish one more christmas person
+	done:
+		mom, catherine
+	todo:
+		james, chris, Bob, Nana, A/J, dad, noah
+rent to tina
+password manager
+clean game
+chair falling apart - warraynty
+New profile pic for Linkedin
+update Nexus info
+
+
+
+=====
+pip freeze, github
+
+figure out folders for file and image uploads and how to display them
+organization will come later.
+pets?
+
+
+Personal info
+	relations to all contacts
+	emails
+	social
+	birthday
+	birthplace
+	Lived at - including landlord info
+	jobs - including reference info
+	important documents?
+
+views:
+	My Info
+	CRUD for contacts as a whole
+	upcoming dates
+	tag members
+	non-georgian calendar dates
+	relationship graph
+	
+business logic to keep in mind
+	death options only show up with is_deceased=True
+	Name auto stuff from given/family
+	Phone numbers, address and emails relating to work places...
+		display in business... option to delete if business is deleted
+	

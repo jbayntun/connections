@@ -1,0 +1,12 @@
+<h1>Contact List</h1>
+{% if contact_list %}
+<ul>
+{% for contact in contact_list %}
+    <li>
+    <a href="{{ contact.get_absolute_url }}">{{ contact.id }}</a> ({{contact.created_date}}) ({{contact.primary_name.given_name}})
+    </li>
+{% endfor %}
+</ul>
+{% else %}
+<p>There are no contacts.</p>
+{% endif %}       
